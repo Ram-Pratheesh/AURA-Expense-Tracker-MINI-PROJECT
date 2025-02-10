@@ -1,18 +1,20 @@
-## Getting Started
+# ✨ AURA - Personal Finance Management Website  
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Aura is a **feature-rich personal finance management website** designed to help users **track income, expenses, and manage financial transactions efficiently**.  
+With an intuitive UI and robust **database integration**, Aura ensures seamless financial tracking and security.
 
-## Folder Structure
+## 🚀 Key Features  
+✅ **Add, update, and remove transactions** 🔄  
+✅ **Categorize transactions as income or expenses** 💰  
+✅ **Calculate and display monthly income & expenses** 📊  
+✅ **User-friendly graphical interface using Java Swing** 🖥️  
+✅ **Secure data storage with MySQL database integration** 🔐  
+✅ **Display total balance, total income, and total expenses** 📈  
+✅ **Customizable transaction descriptions** ✍️  
+✅ **Confirmation dialogs for critical actions (e.g., deletion, logout)** ⚠️  
 
-The workspace contains two folders by default, where:
+## 🛠️ Tech Stack  
+- **Frontend:** Java (Swing)  
+- **Database:** MySQL  
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+📌 *Aura empowers users to take control of their finances with ease and security!* 🚀  
